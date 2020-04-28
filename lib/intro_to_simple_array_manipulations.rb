@@ -14,6 +14,6 @@ def using_flatten(arr)
   arr.flatten
 end
 
-def using_delete_at(arr, int) 
-  arr.delete_at(int)
+def using_delete_at(arr, st) 
+  arr.delete_at(st)
 end
